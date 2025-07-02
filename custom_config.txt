@@ -1,5 +1,0 @@
-executions = [
-    ("WHITE_USDT", {
-        "stochRsi": 0,
-    }),
-]
