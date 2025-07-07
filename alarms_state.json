@@ -1,40 +1,4 @@
 {
-  "6487259893_/alarm_1751635363": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "BR_USDT",
-      "0.138.12"
-    ],
-    "created_at": 1751635363
-  },
-  "6487259893_/alarm_1751635859": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "BR_USDT",
-      "0.138.12"
-    ],
-    "created_at": 1751635859
-  },
-  "6487259893_/alarm_1751635860": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "BR_USDT",
-      "0.138.12"
-    ],
-    "created_at": 1751635860
-  },
-  "6487259893_/alarm_1751635861": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "BR_USDT",
-      "0.13812"
-    ],
-    "created_at": 1751635861
-  },
   "6487259893_/alarm_1751895707": {
     "chat_id": 6487259893,
     "command": "/alarm",
