@@ -44,15 +44,6 @@
     ],
     "created_at": 1752058817
   },
-  "6487259893_/alarm_1752066608": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "MAGIC_USDT",
-      "0.1061"
-    ],
-    "created_at": 1752066608
-  },
   "6487259893_/alarm_1752066609": {
     "chat_id": 6487259893,
     "command": "/alarm",
