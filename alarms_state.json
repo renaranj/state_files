@@ -80,15 +80,6 @@
     ],
     "created_at": 1752141618
   },
-  "6487259893_/alarm_1752146410": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "HYPER_USDT",
-      "0.3666"
-    ],
-    "created_at": 1752146410
-  },
   "6487259893_/alarm_1752148216": {
     "chat_id": 6487259893,
     "command": "/alarm",
