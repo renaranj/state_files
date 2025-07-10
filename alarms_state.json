@@ -30,7 +30,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "hosico_usdt",
+      "HOSICO_USDT",
       "0.03664"
     ],
     "created_at": 1752077411
@@ -39,7 +39,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "bananas31_usdt",
+      "BANANAS31_USDT",
       "0.011280"
     ],
     "created_at": 1752089711
@@ -48,7 +48,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "rex_usdt",
+      "REX_USDT",
       "0.01225"
     ],
     "created_at": 1752126612
@@ -57,7 +57,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "tgt_usdt",
+      "TGT_USDT",
       "0.01606"
     ],
     "created_at": 1752127209
@@ -66,7 +66,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "Hyper_usdt",
+      "HYPER_USDT",
       "0.2072"
     ],
     "created_at": 1752135311
