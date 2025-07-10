@@ -142,5 +142,14 @@
       "0.094"
     ],
     "created_at": 1752149412
+  },
+  "6487259893_/delete_1752150011": {
+    "chat_id": 6487259893,
+    "command": "/delete",
+    "args": [
+      "GOONC_USDT",
+      "all"
+    ],
+    "created_at": 1752150011
   }
 }
