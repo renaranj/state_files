@@ -39,7 +39,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "BANANA31_USDT",
+      "BANANAS31_USDT",
       "0.011280"
     ],
     "created_at": 1752089711
@@ -102,7 +102,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "BANANA31_USDT",
+      "BANANA31S_USDT",
       "0.027"
     ],
     "created_at": 1752149128
