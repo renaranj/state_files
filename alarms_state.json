@@ -310,5 +310,14 @@
       "/start"
     ],
     "created_at": 1752678920
+  },
+  "6487259893_/delete_1752678921": {
+    "chat_id": 6487259893,
+    "command": "/delete",
+    "args": [
+      "ALARM",
+      "/start"
+    ],
+    "created_at": 1752678921
   }
 }
