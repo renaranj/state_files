@@ -215,15 +215,6 @@
     ],
     "created_at": 1752186013
   },
-  "6487259893_/alarm_1752186014": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "FARTCOIN_USDT",
-      "1.433"
-    ],
-    "created_at": 1752186014
-  },
   "6487259893_/alarm_1752186015": {
     "chat_id": 6487259893,
     "command": "/alarm",
