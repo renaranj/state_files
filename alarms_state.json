@@ -310,5 +310,14 @@
       "/start"
     ],
     "created_at": 1752678921
+  },
+  "6487259893_/alarm_1752696610": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "SERAPH_USDT",
+      "0.1922"
+    ],
+    "created_at": 1752696610
   }
 }
