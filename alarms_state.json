@@ -8,15 +8,6 @@
     ],
     "created_at": 1752058817
   },
-  "6487259893_/alarm_1752077411": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "HOSICO_USDT",
-      "0.03664"
-    ],
-    "created_at": 1752077411
-  },
   "6487259893_/alarm_1752126612": {
     "chat_id": 6487259893,
     "command": "/alarm",
