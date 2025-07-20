@@ -269,15 +269,6 @@
     ],
     "created_at": 1752755408
   },
-  "6487259893_/alarm_1752755409": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "jasmy_usdt",
-      "0.0186"
-    ],
-    "created_at": 1752755409
-  },
   "6487259893_/alarm_1752755716": {
     "chat_id": 6487259893,
     "command": "/alarm",
