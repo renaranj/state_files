@@ -310,7 +310,7 @@
     "command": "/",
     "args": [
       "ALARM",
-      "altcoin_usdt",
+      "ALTCOIN_USDT",
       "0.002741"
     ],
     "created_at": 1753045219
