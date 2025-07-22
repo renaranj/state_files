@@ -405,15 +405,6 @@
     ],
     "created_at": 1753197520
   },
-  "6487259893_/alarm_1753201113": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "SAROS_USDT",
-      "0.3505"
-    ],
-    "created_at": 1753201113
-  },
   "6487259893_/alarm_1753202028": {
     "chat_id": 6487259893,
     "command": "/alarm",
