@@ -467,5 +467,14 @@
       "0.21259"
     ],
     "created_at": 1753278585
+  },
+  "6487259893_/patterns_1753278586": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "SAHARA_USDT",
+      "0.21259"
+    ],
+    "created_at": 1753278586
   }
 }
