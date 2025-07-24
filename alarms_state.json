@@ -526,8 +526,8 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "GOR_USDT",
-      "0.01387"
+      "GORUSDT",
+      "0.0244"
     ],
     "created_at": 1753371260
   }
