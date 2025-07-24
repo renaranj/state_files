@@ -573,5 +573,13 @@
       "0.03247"
     ],
     "created_at": 1753373254
+  },
+  "6487259893_/patterns_1753373255": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "SD_USDT"
+    ],
+    "created_at": 1753373255
   }
 }
