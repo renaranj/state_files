@@ -590,5 +590,13 @@
       "1.7138"
     ],
     "created_at": 1753373256
+  },
+  "6487259893_/patterns_1753373257": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "VINE_USDT"
+    ],
+    "created_at": 1753373257
   }
 }
