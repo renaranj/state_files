@@ -581,5 +581,14 @@
       "SD_USDT"
     ],
     "created_at": 1753373255
+  },
+  "6487259893_/patterns_1753373256": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "SD_USDT",
+      "1.7138"
+    ],
+    "created_at": 1753373256
   }
 }
