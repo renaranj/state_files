@@ -564,5 +564,14 @@
       "REX_USDT"
     ],
     "created_at": 1753373253
+  },
+  "6487259893_/patterns_1753373254": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "REX_USDT",
+      "0.03247"
+    ],
+    "created_at": 1753373254
   }
 }
