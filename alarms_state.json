@@ -557,14 +557,6 @@
     ],
     "created_at": 1753432096
   },
-  "6487259893_/patterns_1753438715": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "SLF_USDT"
-    ],
-    "created_at": 1753438715
-  },
   "6487259893_/alarm_1753445241": {
     "chat_id": 6487259893,
     "command": "/alarm",
