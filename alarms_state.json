@@ -623,5 +623,13 @@
       "IDEX_USDT"
     ],
     "created_at": 1753481022
+  },
+  "6487259893_/patterns_1753482310": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "MDT_USDT"
+    ],
+    "created_at": 1753482310
   }
 }
