@@ -615,5 +615,13 @@
       "AXL_USDT"
     ],
     "created_at": 1753481021
+  },
+  "6487259893_/patterns_1753481022": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "IDEX_USDT"
+    ],
+    "created_at": 1753481022
   }
 }
