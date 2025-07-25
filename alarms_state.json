@@ -655,5 +655,14 @@
       "SD_USDT"
     ],
     "created_at": 1753483702
+  },
+  "6487259893_/alarm_1753483812": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "MORE_USDT",
+      "0.108"
+    ],
+    "created_at": 1753483812
   }
 }
