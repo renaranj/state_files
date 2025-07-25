@@ -607,5 +607,13 @@
       "HYPER_USDT"
     ],
     "created_at": 1753480235
+  },
+  "6487259893_/patterns_1753481021": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "AXL_USDT"
+    ],
+    "created_at": 1753481021
   }
 }
