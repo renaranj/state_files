@@ -639,5 +639,13 @@
       "DIA_USDT"
     ],
     "created_at": 1753482818
+  },
+  "6487259893_/patterns_1753483211": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "STO_USDT"
+    ],
+    "created_at": 1753483211
   }
 }
