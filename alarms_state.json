@@ -631,5 +631,13 @@
       "MDT_USDT"
     ],
     "created_at": 1753482310
+  },
+  "6487259893_/patterns_1753482818": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "DIA_USDT"
+    ],
+    "created_at": 1753482818
   }
 }
