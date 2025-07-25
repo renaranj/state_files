@@ -664,5 +664,14 @@
       "0.108"
     ],
     "created_at": 1753483812
+  },
+  "6487259893_/patterns_1753484106": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "ZORA_USDT",
+      "0.07835"
+    ],
+    "created_at": 1753484106
   }
 }
