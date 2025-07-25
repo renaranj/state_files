@@ -553,5 +553,14 @@
       "VINE_USDT"
     ],
     "created_at": 1753373257
+  },
+  "6487259893_/alarm_1753431595": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "AIOT_USDT",
+      "0.30226"
+    ],
+    "created_at": 1753431595
   }
 }
