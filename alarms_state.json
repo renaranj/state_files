@@ -574,5 +574,14 @@
       "DOLO_USDT"
     ],
     "created_at": 1753474029
+  },
+  "6487259893_/alarm_1753474721": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "ULTI_USDT",
+      "0.003394"
+    ],
+    "created_at": 1753474721
   }
 }
