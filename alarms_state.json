@@ -591,5 +591,13 @@
       "REI_USDT"
     ],
     "created_at": 1753474722
+  },
+  "6487259893_/patterns_1753474853": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "CROSS_USDT"
+    ],
+    "created_at": 1753474853
   }
 }
