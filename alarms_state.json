@@ -605,5 +605,13 @@
       "CULT_USDT"
     ],
     "created_at": 1753559711
+  },
+  "6487259893_/patterns_1753559712": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "KERNEL_USDT"
+    ],
+    "created_at": 1753559712
   }
 }
