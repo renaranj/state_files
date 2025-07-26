@@ -549,22 +549,6 @@
     ],
     "created_at": 1753474721
   },
-  "6487259893_/patterns_1753474853": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "CROSS_USDT"
-    ],
-    "created_at": 1753474853
-  },
-  "6487259893_/patterns_1753482310": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "MDT_USDT"
-    ],
-    "created_at": 1753482310
-  },
   "6487259893_/patterns_1753483702": {
     "chat_id": 6487259893,
     "command": "/patterns",
@@ -589,29 +573,5 @@
       "CKB_USDT"
     ],
     "created_at": 1753521502
-  },
-  "6487259893_/patterns_1753544020": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "A8_USDT"
-    ],
-    "created_at": 1753544020
-  },
-  "6487259893_/patterns_1753559711": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "CULT_USDT"
-    ],
-    "created_at": 1753559711
-  },
-  "6487259893_/patterns_1753559712": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "KERNEL_USDT"
-    ],
-    "created_at": 1753559712
   }
 }
