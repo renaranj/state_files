@@ -573,5 +573,14 @@
       "CKB_USDT"
     ],
     "created_at": 1753521502
+  },
+  "6487259893_/alarm_1753560621": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "DOLO_USDT",
+      "0.1296"
+    ],
+    "created_at": 1753560621
   }
 }
