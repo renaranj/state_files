@@ -558,14 +558,6 @@
     ],
     "created_at": 1753445241
   },
-  "6487259893_/patterns_1753474029": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "DOLO_USDT"
-    ],
-    "created_at": 1753474029
-  },
   "6487259893_/alarm_1753474721": {
     "chat_id": 6487259893,
     "command": "/alarm",
@@ -591,14 +583,6 @@
     ],
     "created_at": 1753474853
   },
-  "6487259893_/patterns_1753480235": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "HYPER_USDT"
-    ],
-    "created_at": 1753480235
-  },
   "6487259893_/patterns_1753481021": {
     "chat_id": 6487259893,
     "command": "/patterns",
@@ -622,14 +606,6 @@
       "MDT_USDT"
     ],
     "created_at": 1753482310
-  },
-  "6487259893_/patterns_1753482818": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "DIA_USDT"
-    ],
-    "created_at": 1753482818
   },
   "6487259893_/patterns_1753483211": {
     "chat_id": 6487259893,
