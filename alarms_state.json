@@ -598,5 +598,13 @@
       "CKB_USDT"
     ],
     "created_at": 1753521502
+  },
+  "6487259893_/patterns_1753521503": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "STARTUP_USDT"
+    ],
+    "created_at": 1753521503
   }
 }
