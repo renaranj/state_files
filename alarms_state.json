@@ -590,5 +590,13 @@
       "0.07835"
     ],
     "created_at": 1753484106
+  },
+  "6487259893_/patterns_1753521502": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "CKB_USDT"
+    ],
+    "created_at": 1753521502
   }
 }
