@@ -540,14 +540,6 @@
     ],
     "created_at": 1753474721
   },
-  "6487259893_/patterns_1753483702": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "SD_USDT"
-    ],
-    "created_at": 1753483702
-  },
   "6487259893_/patterns_1753484106": {
     "chat_id": 6487259893,
     "command": "/patterns",
