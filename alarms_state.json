@@ -537,5 +537,13 @@
       "TROLLSOL_USDT"
     ],
     "created_at": 1753616122
+  },
+  "6487259893_/patterns_1753616423": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "DOLO_USDT"
+    ],
+    "created_at": 1753616423
   }
 }
