@@ -560,5 +560,13 @@
       "SIREN_USDT"
     ],
     "created_at": 1753721268
+  },
+  "6487259893_/patterns_1753734846": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "DADDY_USDT"
+    ],
+    "created_at": 1753734846
   }
 }
