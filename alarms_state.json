@@ -560,5 +560,13 @@
       "ASR_USDT"
     ],
     "created_at": 1753720238
+  },
+  "6487259893_/patterns_1753721267": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "DADDY_USDT"
+    ],
+    "created_at": 1753721267
   }
 }
