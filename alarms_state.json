@@ -513,14 +513,6 @@
     ],
     "created_at": 1753474721
   },
-  "6487259893_/patterns_1753616424": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "ZORA_USDT"
-    ],
-    "created_at": 1753616424
-  },
   "6487259893_/patterns_1753713498": {
     "chat_id": 6487259893,
     "command": "/patterns",
