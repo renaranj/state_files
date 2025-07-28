@@ -576,5 +576,13 @@
       "XION_USDT"
     ],
     "created_at": 1753720513
+  },
+  "6487259893_/patterns_1753720514": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "BANANAS31_USDT"
+    ],
+    "created_at": 1753720514
   }
 }
