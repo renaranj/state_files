@@ -568,5 +568,13 @@
       "CAT_USDT"
     ],
     "created_at": 1753720512
+  },
+  "6487259893_/patterns_1753720513": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "XION_USDT"
+    ],
+    "created_at": 1753720513
   }
 }
