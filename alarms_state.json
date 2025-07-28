@@ -584,5 +584,13 @@
       "BANANAS31_USDT"
     ],
     "created_at": 1753720514
+  },
+  "6487259893_/patterns_1753720515": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "ASR_USDT"
+    ],
+    "created_at": 1753720515
   }
 }
