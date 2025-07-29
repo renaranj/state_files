@@ -546,5 +546,13 @@
       "3.468"
     ],
     "created_at": 1753782013
+  },
+  "6487259893_/patterns_1753782014": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "OMNI_USDT"
+    ],
+    "created_at": 1753782014
   }
 }
