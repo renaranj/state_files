@@ -555,22 +555,6 @@
     ],
     "created_at": 1753782014
   },
-  "6487259893_/patterns_1753784741": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "ESPORTS_USDT"
-    ],
-    "created_at": 1753784741
-  },
-  "6487259893_/patterns_1753796950": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "DEGEN_USDT"
-    ],
-    "created_at": 1753796950
-  },
   "6487259893_/patterns_1753800555": {
     "chat_id": 6487259893,
     "command": "/patterns",
