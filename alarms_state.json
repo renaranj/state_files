@@ -554,5 +554,13 @@
       "OMNI_USDT"
     ],
     "created_at": 1753782014
+  },
+  "6487259893_/patterns_1753784741": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "ESPORTS_USDT"
+    ],
+    "created_at": 1753784741
   }
 }
