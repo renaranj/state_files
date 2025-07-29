@@ -536,5 +536,14 @@
       "BANANAS31_USDT"
     ],
     "created_at": 1753720237
+  },
+  "6487259893_/alarm_1753770814": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "VINE_USDT",
+      "0.10868"
+    ],
+    "created_at": 1753770814
   }
 }
