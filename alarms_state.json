@@ -547,5 +547,14 @@
       "TROLLSOL_USDT"
     ],
     "created_at": 1753949037
+  },
+  "6487259893_/alarm_1753949038": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "HOLD_USDT",
+      "0.0001089"
+    ],
+    "created_at": 1753949038
   }
 }
