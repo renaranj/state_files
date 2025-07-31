@@ -531,15 +531,6 @@
     ],
     "created_at": 1753782013
   },
-  "6487259893_/alarm_1753802117": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "TROLLSOL_USDT",
-      "0.05773"
-    ],
-    "created_at": 1753802117
-  },
   "6487259893_/patterns_1753949037": {
     "chat_id": 6487259893,
     "command": "/patterns",
