@@ -529,5 +529,13 @@
       "SAROS_USDT"
     ],
     "created_at": 1754032512
+  },
+  "6487259893_/patterns_1754056512": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "EDGE_USDT"
+    ],
+    "created_at": 1754056512
   }
 }
