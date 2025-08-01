@@ -521,5 +521,13 @@
       "0.318"
     ],
     "created_at": 1754030117
+  },
+  "6487259893_/patterns_1754032512": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "SAROS_USDT"
+    ],
+    "created_at": 1754032512
   }
 }
