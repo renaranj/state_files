@@ -529,5 +529,13 @@
       "EDGE_USDT"
     ],
     "created_at": 1754056512
+  },
+  "6487259893_/patterns_1754079908": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "GORILLABSC_USDT"
+    ],
+    "created_at": 1754079908
   }
 }
