@@ -566,5 +566,13 @@
       "0.02208"
     ],
     "created_at": 1754294113
+  },
+  "6487259893_/patterns_1754317394": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "NOBODY_USDT"
+    ],
+    "created_at": 1754317394
   }
 }
