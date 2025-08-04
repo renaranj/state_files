@@ -565,5 +565,14 @@
       "NOBODY_USDT"
     ],
     "created_at": 1754292863
+  },
+  "6487259893_/alarm_1754292864": {
+    "chat_id": 6487259893,
+    "command": "/alarm",
+    "args": [
+      "NOBODY_USDT",
+      "0.05602"
+    ],
+    "created_at": 1754292864
   }
 }
