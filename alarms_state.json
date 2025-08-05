@@ -585,5 +585,15 @@
       "4h"
     ],
     "created_at": 1754394095
+  },
+  "6487259893_/patterns_1754395529": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "RDO_USDT",
+      "0.003298",
+      "4h"
+    ],
+    "created_at": 1754395529
   }
 }
