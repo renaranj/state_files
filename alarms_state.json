@@ -582,7 +582,7 @@
     "args": [
       "MYX_USDT",
       null,
-      "4h"
+      "15m"
     ],
     "created_at": 1754394095
   },
