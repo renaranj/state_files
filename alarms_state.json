@@ -513,15 +513,6 @@
     ],
     "created_at": 1754030117
   },
-  "6487259893_/alarm_1754120412": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "OMNI_USDT",
-      "4.00"
-    ],
-    "created_at": 1754120412
-  },
   "6487259893_/alarm_1754170518": {
     "chat_id": 6487259893,
     "command": "/alarm",
