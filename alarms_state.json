@@ -338,7 +338,8 @@
     "command": "/patterns",
     "args": [
       "SPK_USDT",
-      "0.14778"
+      "0.14778",
+      "4h"
     ],
     "created_at": 1753270967
   },
@@ -356,7 +357,8 @@
     "command": "/patterns",
     "args": [
       "SLP_USDT",
-      "0.003185"
+      "0.003185",
+      "4h"
     ],
     "created_at": 1753273602
   },
@@ -383,7 +385,8 @@
     "command": "/patterns",
     "args": [
       "SAHARA_USDT",
-      "0.21259"
+      "0.21259",
+      "4h"
     ],
     "created_at": 1753278586
   },
@@ -437,7 +440,8 @@
     "command": "/patterns",
     "args": [
       "REX_USDT",
-      "0.03247"
+      "0.03247",
+      "4h"
     ],
     "created_at": 1753373254
   },
@@ -446,7 +450,8 @@
     "command": "/patterns",
     "args": [
       "SD_USDT",
-      "1.7138"
+      "1.7138",
+      "4h"
     ],
     "created_at": 1753373256
   },
@@ -562,7 +567,9 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "GOR_USDT"
+      "GOR_USDT",
+      null,
+      "4h"
     ],
     "created_at": 1754388611
   },
