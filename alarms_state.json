@@ -482,15 +482,6 @@
     ],
     "created_at": 1753445241
   },
-  "6487259893_/alarm_1753474721": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "MEMEFI_USDT",
-      "0.004058"
-    ],
-    "created_at": 1753474721
-  },
   "6487259893_/alarm_1753782013": {
     "chat_id": 6487259893,
     "command": "/alarm",
