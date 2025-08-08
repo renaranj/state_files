@@ -585,14 +585,6 @@
     ],
     "created_at": 1754395824
   },
-  "6487259893_/patterns_1754582748": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "EDGE_USDT"
-    ],
-    "created_at": 1754582748
-  },
   "6487259893_/patterns_1754583014": {
     "chat_id": 6487259893,
     "command": "/patterns",
