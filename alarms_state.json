@@ -315,15 +315,6 @@
     ],
     "created_at": 1753193108
   },
-  "6487259893_/alarm_1753197520": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "PENDLE_USDT",
-      "5.61"
-    ],
-    "created_at": 1753197520
-  },
   "6487259893_/alarm_1753266810": {
     "chat_id": 6487259893,
     "command": "/alarm",
