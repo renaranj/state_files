@@ -575,5 +575,13 @@
       "2.756"
     ],
     "created_at": 1754652883
+  },
+  "6487259893_/patterns_1754751314": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "PENDLE_USDT"
+    ],
+    "created_at": 1754751314
   }
 }
