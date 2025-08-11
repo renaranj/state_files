@@ -603,5 +603,15 @@
       "0.2677"
     ],
     "created_at": 1754916568
+  },
+  "6487259893_/patterns_1754917507": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "DOLO_USDT",
+      null,
+      "4h"
+    ],
+    "created_at": 1754917507
   }
 }
