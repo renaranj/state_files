@@ -586,5 +586,15 @@
       "4h"
     ],
     "created_at": 1754924726
+  },
+  "6487259893_/patterns_1754933115": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "MYRO_USDT",
+      null,
+      "4h"
+    ],
+    "created_at": 1754933115
   }
 }
