@@ -613,5 +613,15 @@
       "4h"
     ],
     "created_at": 1754917507
+  },
+  "6487259893_/patterns_1754917932": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "KERNEL_USDT",
+      "0.2068",
+      "4h"
+    ],
+    "created_at": 1754917932
   }
 }
