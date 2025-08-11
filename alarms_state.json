@@ -584,34 +584,5 @@
       "4h"
     ],
     "created_at": 1754913180
-  },
-  "6487259893_/patterns_1754916298": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "DOLO_USDT",
-      "0.2658",
-      "4h"
-    ],
-    "created_at": 1754916298
-  },
-  "6487259893_/alarm_1754916568": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "DOLO_USDT",
-      "0.2677"
-    ],
-    "created_at": 1754916568
-  },
-  "6487259893_/patterns_1754917507": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "DOLO_USDT",
-      null,
-      "4h"
-    ],
-    "created_at": 1754917507
   }
 }
