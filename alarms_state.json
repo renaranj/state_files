@@ -594,5 +594,15 @@
       "4h"
     ],
     "created_at": 1754913180
+  },
+  "6487259893_/patterns_1754915494": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "KEKIUS_USDT",
+      null,
+      "15m"
+    ],
+    "created_at": 1754915494
   }
 }
