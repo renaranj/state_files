@@ -584,5 +584,15 @@
       "4h"
     ],
     "created_at": 1754913180
+  },
+  "6487259893_/patterns_1754924724": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "XNY_USDT",
+      "0.01913",
+      "4h"
+    ],
+    "created_at": 1754924724
   }
 }
