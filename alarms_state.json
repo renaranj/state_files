@@ -636,15 +636,5 @@
       "4h"
     ],
     "created_at": 1755160818
-  },
-  "6487259893_/patterns_1755181139": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "CYC_USDT",
-      null,
-      "15m"
-    ],
-    "created_at": 1755181139
   }
 }
