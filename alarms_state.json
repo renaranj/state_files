@@ -626,5 +626,15 @@
       "4h"
     ],
     "created_at": 1755160479
+  },
+  "6487259893_/patterns_1755160481": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "EDGE_USDT",
+      null,
+      "4h"
+    ],
+    "created_at": 1755160481
   }
 }
