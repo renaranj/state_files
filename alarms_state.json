@@ -636,5 +636,15 @@
       "4h"
     ],
     "created_at": 1755160481
+  },
+  "6487259893_/patterns_1755160818": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "SPON_USDT",
+      null,
+      "4h"
+    ],
+    "created_at": 1755160818
   }
 }
