@@ -587,16 +587,6 @@
     ],
     "created_at": 1754933115
   },
-  "6487259893_/patterns_1755096611": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "GTC_USDT",
-      null,
-      "15m"
-    ],
-    "created_at": 1755096611
-  },
   "6487259893_/patterns_1755096911": {
     "chat_id": 6487259893,
     "command": "/patterns",
