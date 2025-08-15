@@ -509,16 +509,6 @@
     ],
     "created_at": 1754294113
   },
-  "6487259893_/patterns_1754388611": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "GOR_USDT",
-      null,
-      "4h"
-    ],
-    "created_at": 1754388611
-  },
   "6487259893_/patterns_1754395529": {
     "chat_id": 6487259893,
     "command": "/patterns",
@@ -606,16 +596,6 @@
       "4h"
     ],
     "created_at": 1755100514
-  },
-  "6487259893_/patterns_1755160479": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "ECHO_USDT",
-      null,
-      "4h"
-    ],
-    "created_at": 1755160479
   },
   "6487259893_/patterns_1755160818": {
     "chat_id": 6487259893,
