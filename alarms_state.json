@@ -626,5 +626,15 @@
       "4h"
     ],
     "created_at": 1755160818
+  },
+  "6487259893_/patterns_1755241429": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "ZKWASM_USDT",
+      null,
+      "15m"
+    ],
+    "created_at": 1755241429
   }
 }
