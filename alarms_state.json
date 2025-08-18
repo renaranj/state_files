@@ -3,7 +3,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "MAGIC_USDT",
+      "MAGICUSDT",
       "0.0937"
     ],
     "created_at": 1752058817
@@ -12,7 +12,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "REX_USDT",
+      "REXUSDT",
       "0.01225"
     ],
     "created_at": 1752126612
@@ -21,7 +21,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "HYPER_USDT",
+      "HYPERUSDT",
       "0.2072"
     ],
     "created_at": 1752135311
@@ -30,7 +30,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "COOKIE_USDT",
+      "COOKIEUSDT",
       "0.0010"
     ],
     "created_at": 1752157818
@@ -39,7 +39,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "COOKIE_USDT",
+      "COOKIEUSDT",
       "0.0020"
     ],
     "created_at": 1752157969
@@ -48,7 +48,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "STO_USDT",
+      "STOUSDT",
       "0.161"
     ],
     "created_at": 1752160816
@@ -57,7 +57,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "HYPER_USDT",
+      "HYPERUSDT",
       "0.1457"
     ],
     "created_at": 1752183610
@@ -66,7 +66,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "CROSS_USDT",
+      "CROSSUSDT",
       "0.07362"
     ],
     "created_at": 1752184517
@@ -75,7 +75,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "M_USDT",
+      "MUSDT",
       "0.16133"
     ],
     "created_at": 1752184518
@@ -84,7 +84,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "MEME_USDT",
+      "MEMEUSDT",
       "0.002499"
     ],
     "created_at": 1752185109
@@ -93,7 +93,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "POPCAT_USDT",
+      "POPCATUSDT",
       "0.4898"
     ],
     "created_at": 1752185110
@@ -102,7 +102,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "CHILLGUY_USDT",
+      "CHILLGUYUSDT",
       "0.8829"
     ],
     "created_at": 1752185409
@@ -111,7 +111,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "AI16Z_USDT",
+      "AI16ZUSDT",
       "0.3009"
     ],
     "created_at": 1752185410
@@ -120,7 +120,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "BRETT_USDT",
+      "BRETTUSDT",
       "0.06907"
     ],
     "created_at": 1752185411
@@ -129,7 +129,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "AVAAI_USDT",
+      "AVAAIUSDT",
       "0.07734"
     ],
     "created_at": 1752185412
@@ -138,7 +138,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "MUBARAK_USDT",
+      "MUBARAKUSDT",
       "0.05401"
     ],
     "created_at": 1752185708
@@ -147,7 +147,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "PEOPLE_USDT",
+      "PEOPLEUSDT",
       "0.02866"
     ],
     "created_at": 1752185709
@@ -156,7 +156,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "COOKIE_USDT",
+      "COOKIEUSDT",
       "0.2742"
     ],
     "created_at": 1752185710
@@ -165,7 +165,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "GRIFFAIN_USDT",
+      "GRIFFAINUSDT",
       "0.1036"
     ],
     "created_at": 1752186013
@@ -174,7 +174,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "MOODENG_USDT",
+      "MOODENGUSDT",
       "0.2583"
     ],
     "created_at": 1752186015
@@ -183,7 +183,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "AUCTION_USDT",
+      "AUCTIONUSDT",
       "39.456"
     ],
     "created_at": 1752404712
@@ -192,7 +192,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "POPCAT_USDT",
+      "POPCATUSDT",
       "0.4936"
     ],
     "created_at": 1752612612
@@ -201,7 +201,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "CHILLGUY_USDT",
+      "CHILLGUYUSDT",
       "0.088"
     ],
     "created_at": 1752658217
@@ -210,7 +210,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "SERAPH_USDT",
+      "SERAPHUSDT",
       "0.1922"
     ],
     "created_at": 1752696610
@@ -219,7 +219,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "BRETT_USDT",
+      "BRETTUSDT",
       "0.069"
     ],
     "created_at": 1752697510
@@ -228,7 +228,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "GAS_USDT",
+      "GASUSDT",
       "5.79"
     ],
     "created_at": 1752755408
@@ -237,7 +237,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "CORE_USDT",
+      "COREUSDT",
       "0.816"
     ],
     "created_at": 1752755716
@@ -246,7 +246,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "BIGTIME_USDT",
+      "BIGTIMEUSDT",
       "0.0777"
     ],
     "created_at": 1752755717
@@ -255,7 +255,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "RENDER_USDT",
+      "RENDERUSDT",
       "4.76"
     ],
     "created_at": 1752755718
@@ -265,7 +265,7 @@
     "command": "/",
     "args": [
       "ALARM",
-      "ALTCOIN_USDT",
+      "ALTCOINUSDT",
       "0.002741"
     ],
     "created_at": 1753045219
@@ -274,7 +274,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "GNC_USDT",
+      "GNCUSDT",
       "0.000001815"
     ],
     "created_at": 1753182310
@@ -283,7 +283,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "SPK_USDT",
+      "SPKUSDT",
       "0.05726"
     ],
     "created_at": 1753183509
@@ -292,7 +292,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "PENGU_USDT",
+      "PENGUUSDT",
       "0.05949"
     ],
     "created_at": 1753193108
@@ -301,7 +301,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "JASMY_USDT",
+      "JASMYUSDT",
       "0.039626"
     ],
     "created_at": 1753266810
@@ -310,7 +310,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "SPK_USDT",
+      "SPKUSDT",
       "0.14778",
       "4h"
     ],
@@ -320,7 +320,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "SPK_USDT",
+      "SPKUSDT",
       "0.19"
     ],
     "created_at": 1753270968
@@ -329,7 +329,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "SLP_USDT",
+      "SLPUSDT",
       "0.003185",
       "4h"
     ],
@@ -339,7 +339,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "KAS_USDT",
+      "KASUSDT",
       "0.11965"
     ],
     "created_at": 1753274425
@@ -348,7 +348,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "SAHARA_USDT",
+      "SAHARAUSDT",
       "0.21259"
     ],
     "created_at": 1753278585
@@ -357,7 +357,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "SAHARA_USDT",
+      "SAHARAUSDT",
       "0.21259",
       "4h"
     ],
@@ -367,7 +367,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "RAI_USDT",
+      "RAIUSDT",
       "1.078"
     ],
     "created_at": 1753361037
@@ -376,7 +376,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "VINE_USDT",
+      "VINEUSDT",
       "0.0435"
     ],
     "created_at": 1753365021
@@ -385,7 +385,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "EDGE_USDT",
+      "EDGEUSDT",
       "0.1027"
     ],
     "created_at": 1753365319
@@ -403,7 +403,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "REX_USDT",
+      "REXUSDT",
       "0.03247",
       "4h"
     ],
@@ -413,7 +413,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "SD_USDT",
+      "SDUSDT",
       "1.7138",
       "4h"
     ],
@@ -423,7 +423,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "AIOT_USDT",
+      "AIOTUSDT",
       "0.30226"
     ],
     "created_at": 1753431595
@@ -432,7 +432,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "AGT_USDT",
+      "AGTUSDT",
       "0.011"
     ],
     "created_at": 1753445241
@@ -441,7 +441,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "OMNI_USDT",
+      "OMNIUSDT",
       "3.468"
     ],
     "created_at": 1753782013
@@ -450,7 +450,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "HOLD_USDT",
+      "HOLDUSDT",
       "0.0001089"
     ],
     "created_at": 1753949038
@@ -459,7 +459,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "RAI_USDT",
+      "RAIUSDT",
       "0.318"
     ],
     "created_at": 1754030117
@@ -468,7 +468,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "KBBB_USDT",
+      "KBBBUSDT",
       "0.0003197"
     ],
     "created_at": 1754170518
@@ -477,7 +477,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "MEMECOIN_USDT",
+      "MEMECOINUSDT",
       "0.0307"
     ],
     "created_at": 1754210029
@@ -486,7 +486,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "EDGE_USDT",
+      "EDGEUSDT",
       "0.1541"
     ],
     "created_at": 1754222633
@@ -495,7 +495,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "NOBODY_USDT",
+      "NOBODYUSDT",
       "0.05602"
     ],
     "created_at": 1754292864
@@ -504,7 +504,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "ALTCOIN_USDT",
+      "ALTCOINUSDT",
       "0.02208"
     ],
     "created_at": 1754294113
@@ -513,7 +513,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "RDO_USDT",
+      "RDOUSDT",
       "0.003298",
       "4h"
     ],
@@ -523,7 +523,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "AGT_USDT",
+      "AGTUSDT",
       "0.01276",
       "4h"
     ],
@@ -533,7 +533,7 @@
     "chat_id": 6487259893,
     "command": "/alarm",
     "args": [
-      "MYX_USDT",
+      "MYXUSDT",
       "2.756"
     ],
     "created_at": 1754652883
@@ -542,7 +542,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "KEKIUS_USDT",
+      "KEKIUSUSDT",
       null,
       "4h"
     ],
@@ -552,7 +552,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "XNY_USDT",
+      "XNYUSDT",
       "0.01913",
       "4h"
     ],
@@ -562,7 +562,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "HOSICO_USDT",
+      "HOSICOUSDT",
       "0.04166",
       "4h"
     ],
@@ -572,7 +572,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "ZKWASM_USDT",
+      "ZKWASMUSDT",
       null,
       "15m"
     ],
@@ -582,7 +582,7 @@
     "chat_id": 6487259893,
     "command": "/patterns",
     "args": [
-      "MDT_USDT",
+      "MDTUSDT",
       null,
       "4h"
     ],
