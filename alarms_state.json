@@ -89,15 +89,6 @@
     ],
     "created_at": 1752185109
   },
-  "6487259893_/alarm_1752185110": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "POPCATUSDT",
-      "0.4898"
-    ],
-    "created_at": 1752185110
-  },
   "6487259893_/alarm_1752185409": {
     "chat_id": 6487259893,
     "command": "/alarm",
@@ -188,15 +179,6 @@
     ],
     "created_at": 1752404712
   },
-  "6487259893_/alarm_1752612612": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "POPCATUSDT",
-      "0.4936"
-    ],
-    "created_at": 1752612612
-  },
   "6487259893_/alarm_1752658217": {
     "chat_id": 6487259893,
     "command": "/alarm",
@@ -205,15 +187,6 @@
       "0.088"
     ],
     "created_at": 1752658217
-  },
-  "6487259893_/alarm_1752696610": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "SERAPHUSDT",
-      "0.1922"
-    ],
-    "created_at": 1752696610
   },
   "6487259893_/alarm_1752697510": {
     "chat_id": 6487259893,
@@ -269,15 +242,6 @@
       "0.002741"
     ],
     "created_at": 1753045219
-  },
-  "6487259893_/alarm_1753182310": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "GNCUSDT",
-      "0.000001815"
-    ],
-    "created_at": 1753182310
   },
   "6487259893_/alarm_1753183509": {
     "chat_id": 6487259893,
@@ -363,15 +327,6 @@
     ],
     "created_at": 1753278586
   },
-  "6487259893_/alarm_1753361037": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "RAIUSDT",
-      "1.078"
-    ],
-    "created_at": 1753361037
-  },
   "6487259893_/alarm_1753365021": {
     "chat_id": 6487259893,
     "command": "/alarm",
@@ -380,24 +335,6 @@
       "0.0435"
     ],
     "created_at": 1753365021
-  },
-  "6487259893_/alarm_1753365319": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "EDGEUSDT",
-      "0.1027"
-    ],
-    "created_at": 1753365319
-  },
-  "6487259893_/alarm_1753371262": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "RAIUSDT",
-      "0.8931"
-    ],
-    "created_at": 1753371262
   },
   "6487259893_/patterns_1753373254": {
     "chat_id": 6487259893,
@@ -419,33 +356,6 @@
     ],
     "created_at": 1753373256
   },
-  "6487259893_/alarm_1753431595": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "AIOTUSDT",
-      "0.30226"
-    ],
-    "created_at": 1753431595
-  },
-  "6487259893_/alarm_1753445241": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "AGTUSDT",
-      "0.011"
-    ],
-    "created_at": 1753445241
-  },
-  "6487259893_/alarm_1753782013": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "OMNIUSDT",
-      "3.468"
-    ],
-    "created_at": 1753782013
-  },
   "6487259893_/alarm_1753949038": {
     "chat_id": 6487259893,
     "command": "/alarm",
@@ -454,60 +364,6 @@
       "0.0001089"
     ],
     "created_at": 1753949038
-  },
-  "6487259893_/alarm_1754030117": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "RAIUSDT",
-      "0.318"
-    ],
-    "created_at": 1754030117
-  },
-  "6487259893_/alarm_1754170518": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "KBBBUSDT",
-      "0.0003197"
-    ],
-    "created_at": 1754170518
-  },
-  "6487259893_/alarm_1754210029": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "MEMECOINUSDT",
-      "0.0307"
-    ],
-    "created_at": 1754210029
-  },
-  "6487259893_/alarm_1754222633": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "EDGEUSDT",
-      "0.1541"
-    ],
-    "created_at": 1754222633
-  },
-  "6487259893_/alarm_1754292864": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "NOBODYUSDT",
-      "0.05602"
-    ],
-    "created_at": 1754292864
-  },
-  "6487259893_/alarm_1754294113": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "ALTCOINUSDT",
-      "0.02208"
-    ],
-    "created_at": 1754294113
   },
   "6487259893_/patterns_1754395529": {
     "chat_id": 6487259893,
