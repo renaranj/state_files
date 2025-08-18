@@ -587,5 +587,15 @@
       "4h"
     ],
     "created_at": 1755250435
+  },
+  "6487259893_/patterns_1755510471": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "PLUMEUSDT",
+      null,
+      "15m"
+    ],
+    "created_at": 1755510471
   }
 }
