@@ -414,15 +414,5 @@
       "4h"
     ],
     "created_at": 1755096911
-  },
-  "6487259893_/patterns_1755250435": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "MDTUSDT",
-      null,
-      "4h"
-    ],
-    "created_at": 1755250435
   }
 }
