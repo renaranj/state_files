@@ -327,16 +327,6 @@
     ],
     "created_at": 1753365021
   },
-  "6487259893_/patterns_1753373254": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "REXUSDT",
-      "0.03247",
-      "4h"
-    ],
-    "created_at": 1753373254
-  },
   "6487259893_/patterns_1753373256": {
     "chat_id": 6487259893,
     "command": "/patterns",
