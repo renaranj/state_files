@@ -404,5 +404,15 @@
       "4h"
     ],
     "created_at": 1755096911
+  },
+  "6487259893_/patterns_1755637469": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "MUSDT",
+      null,
+      "4h"
+    ],
+    "created_at": 1755637469
   }
 }
