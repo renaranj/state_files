@@ -444,15 +444,6 @@
     ],
     "created_at": 1755250435
   },
-  "6487259893_/alarm_1755609927": {
-    "chat_id": 6487259893,
-    "command": "/alarm",
-    "args": [
-      "BTCUSDT",
-      "120000"
-    ],
-    "created_at": 1755609927
-  },
   "6487259893_/patterns_1755609960": {
     "chat_id": 6487259893,
     "command": "/patterns",
