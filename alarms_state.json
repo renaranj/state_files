@@ -443,25 +443,5 @@
       "4h"
     ],
     "created_at": 1755250435
-  },
-  "6487259893_/patterns_1755609960": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "BTCUSDT",
-      null,
-      "15m"
-    ],
-    "created_at": 1755609960
-  },
-  "6487259893_/patterns_1755609972": {
-    "chat_id": 6487259893,
-    "command": "/patterns",
-    "args": [
-      "BTCUSDT",
-      "130000",
-      "4h"
-    ],
-    "created_at": 1755609972
   }
 }
