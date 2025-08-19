@@ -452,5 +452,15 @@
       "120000"
     ],
     "created_at": 1755609927
+  },
+  "6487259893_/patterns_1755609960": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "BTCUSDT",
+      null,
+      "15m"
+    ],
+    "created_at": 1755609960
   }
 }
