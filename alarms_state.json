@@ -386,5 +386,15 @@
       "93507"
     ],
     "created_at": 1756563689
+  },
+  "6487259893_/patterns_1757279896": {
+    "chat_id": 6487259893,
+    "command": "/patterns",
+    "args": [
+      "MYXUSDT",
+      "4.76",
+      "4h"
+    ],
+    "created_at": 1757279896
   }
 }
